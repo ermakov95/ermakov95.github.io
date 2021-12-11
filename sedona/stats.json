@@ -1,8 +1,8 @@
 {
-  "hash": "9f40e52eabb92e3bc425",
+  "hash": "5880748dc2ff521f49f2",
   "version": "5.65.0",
-  "time": 13337,
-  "builtAt": 1639190668381,
+  "time": 17433,
+  "builtAt": 1639203930832,
   "publicPath": "/",
   "outputPath": "D:\\Иван\\Вёрстка\\Sedona\\build",
   "assetsByChunkName": {
@@ -117,6 +117,27 @@
       "auxiliaryChunks": [
         17
       ],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "favicon.ico",
+      "size": 222878,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "src/static/favicon.ico",
+        "size": 222878
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
       "isOverSizeLimit": false
     },
     {
@@ -1641,7 +1662,7 @@
     {
       "type": "asset",
       "name": "./photo.html",
-      "size": 15968,
+      "size": 15977,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -1649,7 +1670,7 @@
         "related": {
           "gzipped": "./photo.html.gz"
         },
-        "size": 15968
+        "size": 15977
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1660,13 +1681,13 @@
         {
           "type": "gzipped",
           "name": "./photo.html.gz",
-          "size": 3611,
+          "size": 3618,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "compressed": true,
-            "size": 3611
+            "size": 3618
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -1685,7 +1706,7 @@
     {
       "type": "asset",
       "name": "./index.html",
-      "size": 15512,
+      "size": 15521,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -1693,7 +1714,7 @@
         "related": {
           "gzipped": "./index.html.gz"
         },
-        "size": 15512
+        "size": 15521
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1704,13 +1725,13 @@
         {
           "type": "gzipped",
           "name": "./index.html.gz",
-          "size": 5286,
+          "size": 5291,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "compressed": true,
-            "size": 5286
+            "size": 5291
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -1883,7 +1904,7 @@
     {
       "type": "asset",
       "name": "./form.html",
-      "size": 10934,
+      "size": 10943,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -1891,7 +1912,7 @@
         "related": {
           "gzipped": "./form.html.gz"
         },
-        "size": 10934
+        "size": 10943
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1902,13 +1923,13 @@
         {
           "type": "gzipped",
           "name": "./form.html.gz",
-          "size": 3576,
+          "size": 3583,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "compressed": true,
-            "size": 3576
+            "size": 3583
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -2339,27 +2360,6 @@
     },
     {
       "type": "asset",
-      "name": "favicon.svg",
-      "size": 646,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "copied": true,
-        "sourceFilename": "src/static/favicon.svg",
-        "size": 646
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": {},
-      "chunks": [],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
       "name": "img/white-copy-2.png",
       "size": 506,
       "emitted": true,
@@ -2488,9 +2488,9 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 3303340,
+      "size": 3303343,
       "sizes": {
-        "javascript": 29199,
+        "javascript": 29202,
         "asset": 3261673,
         "css/mini-extract": 12468
       },
@@ -2560,7 +2560,7 @@
         "img/photo-sunset-tablet@2x.webp",
         "img/text-sedona.svg"
       ],
-      "hash": "eaa621b5f3b59a6de336",
+      "hash": "60a2a4e671e28599c3ea",
       "childrenByOrder": {},
       "id": 17,
       "siblings": [
@@ -7288,9 +7288,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 26973,
+          "size": 26976,
           "sizes": {
-            "javascript": 26973
+            "javascript": 26976
           },
           "built": true,
           "codeGenerated": true,
@@ -7383,9 +7383,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 26898,
+              "size": 26901,
               "sizes": {
-                "javascript": 26898
+                "javascript": 26901
               },
               "built": true,
               "codeGenerated": false,
@@ -10444,9 +10444,9 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 67564,
+      "size": 67567,
       "sizes": {
-        "javascript": 11654,
+        "javascript": 11657,
         "asset": 35882,
         "css/mini-extract": 20028
       },
@@ -10468,7 +10468,7 @@
         "img/logo-sedona-tablet.svg",
         "img/text-sedona.svg"
       ],
-      "hash": "4e0689f22b9474cefaf7",
+      "hash": "de668778906922219322",
       "childrenByOrder": {},
       "id": 680,
       "siblings": [
@@ -11164,9 +11164,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 11444,
+          "size": 11447,
           "sizes": {
-            "javascript": 11444
+            "javascript": 11447
           },
           "built": true,
           "codeGenerated": true,
@@ -11259,9 +11259,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 11371,
+              "size": 11374,
               "sizes": {
-                "javascript": 11371
+                "javascript": 11374
               },
               "built": true,
               "codeGenerated": false,
@@ -11404,9 +11404,9 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 1341386,
+      "size": 1341389,
       "sizes": {
-        "javascript": 19445,
+        "javascript": 19448,
         "asset": 1307285,
         "css/mini-extract": 14656
       },
@@ -11441,7 +11441,7 @@
         "img/text-sedona-index.svg",
         "img/white-copy-2.png"
       ],
-      "hash": "97779b4d0b137c0a69e2",
+      "hash": "2e01086770a0d36b97bb",
       "childrenByOrder": {},
       "id": 826,
       "siblings": [
@@ -13200,9 +13200,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 18689,
+          "size": 18692,
           "sizes": {
-            "javascript": 18689
+            "javascript": 18692
           },
           "built": true,
           "codeGenerated": true,
@@ -13295,9 +13295,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 18614,
+              "size": 18617,
               "sizes": {
-                "javascript": 18614
+                "javascript": 18617
               },
               "built": true,
               "codeGenerated": false,
@@ -13597,9 +13597,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 26973,
+      "size": 26976,
       "sizes": {
-        "javascript": 26973
+        "javascript": 26976
       },
       "built": true,
       "codeGenerated": true,
@@ -13690,9 +13690,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 26898,
+          "size": 26901,
           "sizes": {
-            "javascript": 26898
+            "javascript": 26901
           },
           "built": true,
           "codeGenerated": false,
@@ -13755,9 +13755,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 18689,
+      "size": 18692,
       "sizes": {
-        "javascript": 18689
+        "javascript": 18692
       },
       "built": true,
       "codeGenerated": true,
@@ -13848,9 +13848,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 18614,
+          "size": 18617,
           "sizes": {
-            "javascript": 18614
+            "javascript": 18617
           },
           "built": true,
           "codeGenerated": false,
@@ -13913,9 +13913,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 11444,
+      "size": 11447,
       "sizes": {
-        "javascript": 11444
+        "javascript": 11447
       },
       "built": true,
       "codeGenerated": true,
@@ -14006,9 +14006,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 11371,
+          "size": 11374,
           "sizes": {
-            "javascript": 11371
+            "javascript": 11374
           },
           "built": true,
           "codeGenerated": false,
@@ -14132,9 +14132,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 26898,
+      "size": 26901,
       "sizes": {
-        "javascript": 26898
+        "javascript": 26901
       },
       "built": true,
       "codeGenerated": false,
@@ -14195,9 +14195,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 18614,
+      "size": 18617,
       "sizes": {
-        "javascript": 18614
+        "javascript": 18617
       },
       "built": true,
       "codeGenerated": false,
@@ -14258,9 +14258,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 11371,
+      "size": 11374,
       "sizes": {
-        "javascript": 11371
+        "javascript": 11374
       },
       "built": true,
       "codeGenerated": false,
@@ -14357,8 +14357,8 @@
       "assets": [
         "img/GitHub.png",
         "fonts/ptsans.f2c244.woff2",
-        "fonts/ptsans.beaab7.woff",
         "fonts/ptsansbold.d6c46e.woff",
+        "fonts/ptsans.beaab7.woff",
         "fonts/ptsansbold.c430ff.woff2"
       ],
       "reasons": [
@@ -14427,9 +14427,9 @@
         "fonts/ptsansbold.d6c46e.woff",
         "fonts/ptsansbold.c430ff.woff2",
         "img/GitHub.png",
-        "img/bg-back-mobile@2x.jpg",
         "img/bg-back-mobile.jpg",
         "img/bg-back-tablet.jpg",
+        "img/bg-back-mobile@2x.jpg",
         "img/bg-back-tablet@2x.jpg"
       ],
       "reasons": [
@@ -14499,8 +14499,8 @@
         "fonts/ptsansbold.c430ff.woff2",
         "img/GitHub.png",
         "img/bg-back-mobile.jpg",
-        "img/bg-back-mobile@2x.jpg",
         "img/bg-back-tablet.jpg",
+        "img/bg-back-mobile@2x.jpg",
         "img/bg-back-tablet@2x.jpg"
       ],
       "reasons": [
@@ -14569,9 +14569,9 @@
         "fonts/ptsansbold.d6c46e.woff",
         "fonts/ptsansbold.c430ff.woff2",
         "img/GitHub.png",
-        "img/bg-back-mobile@2x.jpg",
         "img/bg-back-mobile.jpg",
         "img/bg-back-tablet.jpg",
+        "img/bg-back-mobile@2x.jpg",
         "img/bg-back-tablet@2x.jpg"
       ],
       "reasons": [
@@ -27507,10 +27507,10 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "2f63a110966042d74304",
+      "hash": "b783718027064badbf9d",
       "version": "5.65.0",
-      "time": 7864,
-      "builtAt": 1639190662958,
+      "time": 9651,
+      "builtAt": 1639203923114,
       "publicPath": "",
       "outputPath": "D:\\Иван\\Вёрстка\\Sedona\\build",
       "assetsByChunkName": {},
@@ -29081,9 +29081,9 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 1329111,
+          "size": 1329114,
           "sizes": {
-            "javascript": 19977,
+            "javascript": 19980,
             "asset": 1307285,
             "runtime": 1849
           },
@@ -29115,7 +29115,7 @@
             "img/text-sedona-index.svg",
             "img/white-copy-2.png"
           ],
-          "hash": "72e51f12f1134a66d5c2",
+          "hash": "dc470acfe1870e8bb669",
           "childrenByOrder": {},
           "id": 251,
           "siblings": [],
@@ -29145,20 +29145,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 7091,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -30300,9 +30300,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 18614,
+              "size": 18617,
               "sizes": {
-                "javascript": 18614
+                "javascript": 18617
               },
               "built": true,
               "codeGenerated": true,
@@ -30394,20 +30394,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 4850,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -30489,20 +30489,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 1367,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -30584,20 +30584,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 5832,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -30679,20 +30679,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 1066,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -32023,9 +32023,9 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 49919,
+          "size": 49922,
           "sizes": {
-            "javascript": 12188,
+            "javascript": 12191,
             "asset": 35882,
             "runtime": 1849
           },
@@ -32044,7 +32044,7 @@
             "img/logo-sedona-tablet.svg",
             "img/text-sedona.svg"
           ],
-          "hash": "b08613242a2a442598a7",
+          "hash": "04235e8b0af576ea2c55",
           "childrenByOrder": {},
           "id": 563,
           "siblings": [],
@@ -32074,20 +32074,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 7091,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -33229,9 +33229,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 11371,
+              "size": 11374,
               "sizes": {
-                "javascript": 11371
+                "javascript": 11374
               },
               "built": true,
               "codeGenerated": true,
@@ -33323,20 +33323,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 4850,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -33418,20 +33418,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 1367,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -33513,20 +33513,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 5832,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -33608,20 +33608,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 1066,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -34122,9 +34122,9 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 3293253,
+          "size": 3293256,
           "sizes": {
-            "javascript": 29731,
+            "javascript": 29734,
             "asset": 3261673,
             "runtime": 1849
           },
@@ -34191,7 +34191,7 @@
             "img/photo-sunset-tablet@2x.webp",
             "img/text-sedona.svg"
           ],
-          "hash": "c837a843e7e830d1282d",
+          "hash": "2f294a6116c08fab5750",
           "childrenByOrder": {},
           "id": 922,
           "siblings": [],
@@ -34221,20 +34221,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 7091,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -35376,9 +35376,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 26898,
+              "size": 26901,
               "sizes": {
-                "javascript": 26898
+                "javascript": 26901
               },
               "built": true,
               "codeGenerated": true,
@@ -35470,20 +35470,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 4850,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -35565,20 +35565,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 1367,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -35660,20 +35660,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 5832,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -35755,20 +35755,20 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+              "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
               "issuerPath": [
                 {
-                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-                  "id": 7552
+                  "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+                  "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+                  "id": 9514
                 }
               ],
               "failed": false,
               "errors": 0,
               "warnings": 0,
               "id": 1066,
-              "issuerId": 7552,
+              "issuerId": 9514,
               "chunks": [
                 251,
                 563,
@@ -39477,9 +39477,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 11371,
+          "size": 11374,
           "sizes": {
-            "javascript": 11371
+            "javascript": 11374
           },
           "built": true,
           "codeGenerated": true,
@@ -39550,9 +39550,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 18614,
+          "size": 18617,
           "sizes": {
-            "javascript": 18614
+            "javascript": 18617
           },
           "built": true,
           "codeGenerated": true,
@@ -39623,9 +39623,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 26898,
+          "size": 26901,
           "sizes": {
-            "javascript": 26898
+            "javascript": 26901
           },
           "built": true,
           "codeGenerated": true,
@@ -39714,20 +39714,20 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
           "issuerPath": [
             {
-              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-              "id": 7552
+              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+              "id": 9514
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 7091,
-          "issuerId": 7552,
+          "issuerId": 9514,
           "chunks": [
             251,
             563,
@@ -40888,20 +40888,20 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
           "issuerPath": [
             {
-              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-              "id": 7552
+              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+              "id": 9514
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 1367,
-          "issuerId": 7552,
+          "issuerId": 9514,
           "chunks": [
             251,
             563,
@@ -40982,20 +40982,20 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
           "issuerPath": [
             {
-              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-              "id": 7552
+              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+              "id": 9514
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 1066,
-          "issuerId": 7552,
+          "issuerId": 9514,
           "chunks": [
             251,
             563,
@@ -41076,20 +41076,20 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
           "issuerPath": [
             {
-              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-              "id": 7552
+              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+              "id": 9514
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 5832,
-          "issuerId": 7552,
+          "issuerId": 9514,
           "chunks": [
             251,
             563,
@@ -41249,20 +41249,20 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
+          "issuer": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+          "issuerName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
           "issuerPath": [
             {
-              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\index.pug",
-              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/index.pug",
-              "id": 7552
+              "identifier": "D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\html-loader\\dist\\cjs.js??clonedRuleSet-7[0].rules[0].use[0]!D:\\Иван\\Вёрстка\\Sedona\\node_modules\\@uvarov.frontend\\pug-bem-plain-loader\\index.js??clonedRuleSet-7[0].rules[0].use[1]!D:\\Иван\\Вёрстка\\Sedona\\src\\templates\\pages\\form.pug",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/templates/pages/form.pug",
+              "id": 9514
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 4850,
-          "issuerId": 7552,
+          "issuerId": 9514,
           "chunks": [
             251,
             563,
