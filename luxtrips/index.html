@@ -6,21 +6,21 @@
 		<title>Lux Trips</title>
 		<meta name="description" content="Lux Trips">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<link href="./styles/index.54f103.css" rel="stylesheet">
+		<link href="./styles/index.174f53.css" rel="stylesheet">
 	</head>
 
 	<body>
-		<header class="header">
-			<nav class="nav nav_opened nav_nojs">
+		<div class="wrapper">
+			<header class="nav nav_opened nav_nojs">
 				<div class="logo-main" href="./index.html">
 					<a href="./index.html">
-						<img src="./img/logo.svg" alt="Logo Lux Trips">
+						<img src="./img/index/logo.svg" alt="Logo Lux Trips">
 					</a>
 				</div>
 				<div class="logo-call-me">
 					<a href="#">
-						<img class="logo-call-me_desktop" src="./img/big-call-me.svg" alt="Logo Lux Trips">
-						<img class="logo-call-me_mobile" src="./img/small-call-me.svg" alt="Logo Lux Trips">
+						<img class="logo-call-me_desktop" src="./img/index/big-call-me.svg" alt="Logo Lux Trips">
+						<img class="logo-call-me_mobile" src="./img/index/small-call-me.svg" alt="Logo Lux Trips">
 					</a>
 				</div>
 				<div class="nav-toggle">
@@ -31,30 +31,91 @@
 					</button>
 				</div>
 				<div class="nav-items">
-					<a class="nav-items__item" href="./index.html">Home</a>
-					<a class="nav-items__item" href="#">Luxury packages</a>
-					<a class="nav-items__item" href="#">Book with us</a>
-					<a class="nav-items__item" href="#">Why Lux Trips</a>
-					<a class="nav-items__item" href="#">Contact</a>
-					<a class="nav-items__item" href="#">Client Area</a>
+					<div class="nav-items-inner">
+						<a class="nav-items__item" href="./index.html">Home</a>
+						<a class="nav-items__item" href="#">Luxury packages</a>
+						<a class="nav-items__item" href="#">Book with us</a>
+						<a class="nav-items__item" href="#">Why Lux Trips</a>
+						<a class="nav-items__item" href="#">Contact</a>
+						<a class="nav-items__item" href="#">Client Area</a>
+					</div>
 				</div>
-			</nav>
-		</header>
-		<section class="intro">
-			<picture class="lower-background-mobile">
-				<source srcset="./img/lower-background-mobile.webp" type="image/webp" alt="Нижний фон" loading="lazy">
-				<source srcset="./img/lower-background-mobile.jpg" type="image/jpeg" alt="Нижний фон" loading="lazy">
-				<img class="lower-background-mobile" src="./img/lower-background-mobile.jpg" type="image/jpeg" alt="Нижний фон" loading="lazy">
-			</picture>
-			<picture class="lower-background-desktop">
-				<source srcset="./img/lower-background-desktop.webp" type="image/webp" alt="Нижний фон" loading="lazy">
-				<source srcset="./img/lower-background-desktop.jpg" type="image/jpeg" alt="Нижний фон" loading="lazy">
-				<img class="lower-background-desktop" src="./img/lower-background-desktop.jpg" type="image/jpeg" alt="Нижний фон" loading="lazy">
-			</picture>
-		</section>
-		<script src="./js/main.cf6a67.js"></script>
-		<script src="./js/vendors.de21f9.js"></script>
-		<script src="./js/index.85ff41.js"></script>
+			</header>
+			<section class="intro">
+				<div class="first-bg intro-bg">
+					<picture class="intro-bg-mobile">
+						<source media="(min-width: 641px)" srcset="./img/index/1-bg-mobile@900w.webp, ./img/index/1-bg-mobile@1800w.webp 2x" type="image/webp" alt="Первый фон" loading="lazy">
+						<source media="(min-width: 641px)" srcset="./img/index/1-bg-mobile@900w.jpg, ./img/index/1-bg-mobile@1800w.jpg 2x" type="image/jpeg" alt="Первый фон" loading="lazy">
+						<source media="(max-width: 640px)" srcset="./img/index/1-bg-mobile@640w.webp, ./img/index/1-bg-mobile@1280w.webp 2x" type="image/webp" alt="Первый фон" loading="lazy">
+						<source media="(max-width: 640px)" srcset="./img/index/1-bg-mobile@640w.jpg, ./img/index/1-bg-mobile@1280w.jpg 2x" type="image/jpeg" alt="Первый фон" loading="lazy">
+						<img class="intro-bg-mobile" src="./img/index/1-bg-mobile@900w.jpg" type="image/jpeg" alt="Первый фон" loading="lazy">
+					</picture>
+					<picture class="intro-bg-desktop">
+						<source media="(min-width: 1176px)" srcset="./img/index/1-bg-desktop@1440w.webp, ./img/index/1-bg-desktop@2880w.webp 2x" type="image/webp" alt="Первый фон" loading="lazy">
+						<source media="(min-width: 1176px)" srcset="./img/index/1-bg-desktop@1440w.jpg, ./img/index/1-bg-desktop@2880w.jpg 2x" type="image/jpeg" alt="Первый фон" loading="lazy">
+						<source media="(max-width: 1175px)" srcset="./img/index/1-bg-desktop@1175w.webp, ./img/index/1-bg-desktop@2350w.webp 2x" type="image/webp" alt="Первый фон" loading="lazy">
+						<source media="(max-width: 1175px)" srcset="./img/index/1-bg-desktop@1175w.jpg, ./img/index/1-bg-desktop@2350w.jpg 2x" type="image/jpeg" alt="Первый фон" loading="lazy">
+						<img class="intro-bg-desktop" src="./img/index/1-bg-desktop@1440w.jpg" type="image/jpeg" alt="Первый фон" loading="lazy">
+					</picture>
+				</div>
+				<h1 class="heading-first">the world’s most</h1>
+				<div class="second-bg intro-bg">
+					<picture class="intro-bg-mobile">
+						<source media="(min-width: 641px)" srcset="./img/index/2-bg-mobile@900w.webp, ./img/index/2-bg-mobile@1800w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(min-width: 641px)" srcset="./img/index/2-bg-mobile@900w.png, ./img/index/2-bg-mobile@1800w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 640px)" srcset="./img/index/2-bg-mobile@640w.webp, ./img/index/2-bg-mobile@1280w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 640px)" srcset="./img/index/2-bg-mobile@640w.png, ./img/index/2-bg-mobile@1280w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<img class="intro-bg-mobile" src="./img/index/2-bg-mobile@900w.png" type="image/png" alt="Второй фон" loading="lazy">
+					</picture>
+					<picture class="intro-bg-desktop">
+						<source media="(min-width: 1176px)" srcset="./img/index/2-bg-desktop@1440w.webp, ./img/index/2-bg-desktop@2880w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(min-width: 1176px)" srcset="./img/index/2-bg-desktop@1440w.png, ./img/index/2-bg-desktop@2880w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 1175px)" srcset="./img/index/2-bg-desktop@1175w.webp, ./img/index/2-bg-desktop@2350w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 1175px)" srcset="./img/index/2-bg-desktop@1175w.png, ./img/index/2-bg-desktop@2350w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<img class="intro-bg-desktop" src="./img/index/2-bg-desktop@1440w.png" type="image/png" alt="Второй фон" loading="lazy">
+					</picture>
+				</div>
+				<h2 class="heading heading-second-top">extra ordinary</h2>
+				<div class="third-bg intro-bg">
+					<picture class="intro-bg-mobile">
+						<source media="(min-width: 641px)" srcset="./img/index/3-bg-mobile@900w.webp, ./img/index/3-bg-mobile@1800w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(min-width: 641px)" srcset="./img/index/3-bg-mobile@900w.png, ./img/index/3-bg-mobile@1800w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 640px)" srcset="./img/index/3-bg-mobile@640w.webp, ./img/index/3-bg-mobile@1280w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 640px)" srcset="./img/index/3-bg-mobile@640w.png, ./img/index/3-bg-mobile@1280w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<img class="intro-bg-mobile" src="./img/index/3-bg-mobile@900w.png" type="image/png" alt="Второй фон" loading="lazy">
+					</picture>
+					<picture class="intro-bg-desktop">
+						<source media="(min-width: 1176px)" srcset="./img/index/3-bg-desktop@1440w.webp, ./img/index/3-bg-desktop@2880w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(min-width: 1176px)" srcset="./img/index/3-bg-desktop@1440w.png, ./img/index/3-bg-desktop@2880w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 1175px)" srcset="./img/index/3-bg-desktop@1175w.webp, ./img/index/3-bg-desktop@2350w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 1175px)" srcset="./img/index/3-bg-desktop@1175w.png, ./img/index/3-bg-desktop@2350w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<img class="intro-bg-desktop" src="./img/index/3-bg-desktop@1440w.png" type="image/png" alt="Второй фон" loading="lazy">
+					</picture>
+				</div>
+				<img class="rhomb-intro" src="./img/index/Vector-intro.svg" type="image/png" alt="Векторный ромб" loading="lazy">
+				<h2 class="heading heading-second-bottom">places</h2>
+				<div class="fourth-bg intro-bg">
+					<picture class="intro-bg-mobile">
+						<source media="(min-width: 641px)" srcset="./img/index/4-bg-mobile@900w.webp, ./img/index/4-bg-mobile@1800w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(min-width: 641px)" srcset="./img/index/4-bg-mobile@900w.png, ./img/index/4-bg-mobile@1800w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 640px)" srcset="./img/index/4-bg-mobile@640w.webp, ./img/index/4-bg-mobile@1280w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 640px)" srcset="./img/index/4-bg-mobile@640w.png, ./img/index/4-bg-mobile@1280w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<img class="intro-bg-mobile" src="./img/index/4-bg-mobile@900w.png" type="image/png" alt="Второй фон" loading="lazy">
+					</picture>
+					<picture class="intro-bg-desktop">
+						<source media="(min-width: 1176px)" srcset="./img/index/4-bg-desktop@1440w.webp, ./img/index/4-bg-desktop@2880w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(min-width: 1176px)" srcset="./img/index/4-bg-desktop@1440w.png, ./img/index/4-bg-desktop@2880w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 1175px)" srcset="./img/index/4-bg-desktop@1175w.webp, ./img/index/4-bg-desktop@2350w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
+						<source media="(max-width: 1175px)" srcset="./img/index/4-bg-desktop@1175w.png, ./img/index/4-bg-desktop@2350w.png 2x" type="image/png" alt="Второй фон" loading="lazy">
+						<img class="intro-bg-desktop" src="./img/index/4-bg-desktop@1440w.png" type="image/png" alt="Второй фон" loading="lazy">
+					</picture>
+				</div>
+				<div class="gradient"></div>
+			</section>
+		</div>
+		<script src="./js/main.00f930.js"></script>
+		<script src="./js/vendors.90b5fc.js"></script>
+		<script src="./js/index.38a1ec.js"></script>
 	</body>
 
 </html>
