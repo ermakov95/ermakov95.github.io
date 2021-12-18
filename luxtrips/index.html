@@ -6,12 +6,12 @@
 		<title>Lux Trips</title>
 		<meta name="description" content="Lux Trips">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<link href="./styles/index.ccee54.css" rel="stylesheet">
+		<link href="./styles/index.ce8dd2.css" rel="stylesheet">
 	</head>
 
 	<body>
-		<div class="wrapper">
-			<header class="nav nav_opened nav_nojs">
+		<header class="parallax nav-opened">
+			<div class="nav nav_opened nav_nojs">
 				<div class="logo-main" href="./index.html">
 					<a href="./index.html">
 						<img src="./img/index/logo.svg" alt="Logo Lux Trips">
@@ -40,8 +40,8 @@
 						<a class="nav-items__item" href="#">Client Area</a>
 					</div>
 				</div>
-			</header>
-			<section class="intro">
+			</div>
+			<div class="intro">
 				<div class="first-bg intro-bg">
 					<picture class="intro-bg-mobile">
 						<source media="(min-width: 641px)" srcset="./img/index/1-bg-mobile@900w.webp, ./img/index/1-bg-mobile@1800w.webp 2x" type="image/webp" alt="Первый фон" loading="lazy">
@@ -75,7 +75,7 @@
 						<img class="intro-bg-desktop" src="./img/index/2-bg-desktop@1440w.png" type="image/png" alt="Второй фон" loading="lazy">
 					</picture>
 				</div>
-				<img class="rhomb-intro-left-top" src="./img/index/Vector-intro.svg" type="image/png" alt="Векторный ромб" loading="lazy">
+				<img class="rhomb-intro-left-top" src="./img/index/Vector-intro.svg" alt="Векторный ромб" loading="lazy">
 				<h2 class="heading heading-second-top">extra ordinary</h2>
 				<div class="third-bg intro-bg">
 					<picture class="intro-bg-mobile">
@@ -93,10 +93,10 @@
 						<img class="intro-bg-desktop" src="./img/index/3-bg-desktop@1440w.png" type="image/png" alt="Второй фон" loading="lazy">
 					</picture>
 				</div>
-				<img class="rhomb-intro-right-top" src="./img/index/Vector-intro.svg" type="image/png" alt="Векторный ромб" loading="lazy">
-				<img class="rhomb-intro-center" src="./img/index/Vector-intro.svg" type="image/png" alt="Векторный ромб" loading="lazy">
+				<img class="rhomb-intro-right-top" src="./img/index/Vector-intro.svg" alt="Векторный ромб" loading="lazy">
+				<img class="rhomb-intro-center" src="./img/index/Vector-intro.svg" alt="Векторный ромб" loading="lazy">
 				<h2 class="heading heading-second-bottom">places</h2>
-				<img class="rhomb-intro-right-bottom" src="./img/index/Vector-intro.svg" type="image/png" alt="Векторный ромб" loading="lazy">
+				<img class="rhomb-intro-right-bottom" src="./img/index/Vector-intro.svg" alt="Векторный ромб" loading="lazy">
 				<div class="fourth-bg intro-bg">
 					<picture class="intro-bg-mobile">
 						<source media="(min-width: 641px)" srcset="./img/index/4-bg-mobile@900w.webp, ./img/index/4-bg-mobile@1800w.webp 2x" type="image/webp" alt="Второй фон" loading="lazy">
@@ -113,39 +113,62 @@
 						<img class="intro-bg-desktop" src="./img/index/4-bg-desktop@1440w.png" type="image/png" alt="Второй фон" loading="lazy">
 					</picture>
 				</div>
-				<img class="rhomb-intro-left-bottom" src="./img/index/Vector-intro.svg" type="image/png" alt="Векторный ромб" loading="lazy">
+				<img class="rhomb-intro-left-bottom" src="./img/index/Vector-intro.svg" alt="Векторный ромб" loading="lazy">
 				<div class="gradient"></div>
-				<div class="find-form">
-					<img class="subtract-top" src="./img/index/Subtract-top.svg" alt="Subtract-top">
-					<img class="subtract" src="./img/index/Subtract.svg" alt="Subtract">
-					<h3 class="find-form-title">find your journey</h3>
-					<form class="forms" action="#">
-						<label class="form-label">
-							<div class="form-title">Destination</div>
-							<input class="form" name="Destination" placeholder="Where are you going?">
-						</label>
-						<label class="form-label">
-							<div class="form-title">Travel type</div>
-							<input class="form" name="Travel type" placeholder="Adventure Travel">
-						</label>
-						<div class="second-forms">
-							<label class="second-form-label">
-								<div class="form-title">When</div>
-								<input class="form" type="date" name="When" placeholder="Введите имя">
-							</label>
-							<label class="second-form-label">
-								<div class="form-title">Travellers</div>
-								<input class="form" type="number" name="Travellers" placeholder="2">
-							</label>
+			</div>
+			<div class="find-form">
+				<img class="subtract-top" src="./img/index/Subtract-top.svg" alt="Subtract-top">
+				<img class="subtract" src="./img/index/Subtract.svg" alt="Subtract">
+				<h3 class="find-form-title">find your journey</h3>
+				<form class="forms" action="#">
+					<label class="form-label">
+						<div class="form-title">
+							<div>
+								<img src="./img/index/icon_destination.png" alt="Иконка" loading="lazy">
+							</div>
+							<p>Destination</p>
 						</div>
-						<button class="find-button">Find</button>
-					</form>
-				</div>
-			</section>
+						<input class="form" name="Destination" placeholder="Where are you going?">
+					</label>
+					<label class="form-label">
+						<div class="form-title">
+							<div>
+								<img src="./img/index/icon_travel.png" alt="Иконка" loading="lazy">
+							</div>
+							<p>Travel type</p>
+						</div>
+						<input class="form" name="Travel type" placeholder="Adventure Travel">
+					</label>
+					<div class="second-forms">
+						<label class="second-form-label">
+							<div class="form-title">
+								<div>
+									<img src="./img/index/icon_calendar.png" alt="Иконка" loading="lazy">
+								</div>
+								<p>When</p>
+							</div>
+							<input class="form" type="date" name="When" placeholder="Введите имя">
+						</label>
+						<label class="second-form-label">
+							<div class="form-title">
+								<div>
+									<img src="./img/index/icon_travellers.png" alt="Иконка" loading="lazy">
+								</div>
+								<p>Travellers</p>
+							</div>
+							<input class="form" type="number" name="Travellers" placeholder="2">
+						</label>
+					</div>
+					<button class="find-button">Find</button>
+				</form>
+			</div>
+		</header>
+		<div class="body-inner">
+			<div class="top-rated"></div>
 		</div>
-		<script src="./js/main.00f930.js"></script>
+		<script src="./js/main.29be4e.js"></script>
 		<script src="./js/vendors.90b5fc.js"></script>
-		<script src="./js/index.34eccf.js"></script>
+		<script src="./js/index.edc40f.js"></script>
 	</body>
 
 </html>
